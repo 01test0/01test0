@@ -12,12 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/01test0" target="blank"><img src="https://img.shields.io/twitter/follow/01test0?logo=twitter&style=for-the-badge" alt="01test0" /></a> </p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +24,12 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu151281&show_icons=true&locale=en&layout=compact" alt="himanshu151281" /></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu151281&show_icons=true&locale=en" alt="himanshu151281" /></p>
