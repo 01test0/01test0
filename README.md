@@ -35,4 +35,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu151281&show_icons=true&locale=en" alt="himanshu151281" /></p>
 <br>
 <br>
+<style>
+    .container {
+        text-align: center; /* Center align the content */
+    }
+    .container img {
+        display: inline-block; /* Make the image behave like a block element */
+    }
+</style>
+<div class="container">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&" alt="himanshu151281" /></p>
+</div>
