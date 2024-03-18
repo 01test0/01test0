@@ -36,7 +36,7 @@
 <br>
 <br>
 
-<div class="container" style="text-align: center; display: inline-block;">
+<div  display: inline-block;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&" alt="himanshu151281" /></p>
 </div>
 
