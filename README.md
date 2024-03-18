@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Center Align Image</title>
-<style>
-    .container {
-        text-align: center; /* Center align the content */
-    }
-    .container img {
-        display: inline-block; /* Make the image behave like a block element */
-    }
-</style>
-</head>
-    <body>
 <h1 align="center">Hi 👋, I'm Sample's Owner</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <br>
@@ -52,8 +36,7 @@
 <br>
 <br>
 
-<div class="container">
+<div class="container" style="text-align: center;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu151281&" alt="himanshu151281" /></p>
 </div>
-</body>
-</html>
+
