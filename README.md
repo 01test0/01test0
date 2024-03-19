@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu151281&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu151281" /> </p>
 <br>
-<h2>> 🏆 GitHub Trophies </h2
+<h2> 🏆 GitHub Trophies </h2
 
 <br>
 
